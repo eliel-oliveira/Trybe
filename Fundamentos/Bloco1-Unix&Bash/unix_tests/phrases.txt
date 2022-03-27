@@ -1,0 +1,11 @@
+Vermelho
+Azul
+Preto
+Branco
+Amarelo
+Laranja
+Roxo
+Turques
+Rosa
+Verde
+Marrom
