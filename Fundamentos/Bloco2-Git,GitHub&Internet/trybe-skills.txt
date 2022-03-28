@@ -7,3 +7,6 @@ O que eu vou aprender na Trybe neste modulo:
 - Git
 - HTML
 - CSS
+
+Aprendendo Pull Request
+Trybe
