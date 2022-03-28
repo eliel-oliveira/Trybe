@@ -2,5 +2,11 @@ O que eu vou aprender na Trybe neste modulo:
 - Unix
 - Bash
 - Git
+- Unix
+- Bash
+- Git
+- HTML
+- CSS
+
 Aprendendo Pull Request
 Trybe
