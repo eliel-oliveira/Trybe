@@ -1,0 +1,23 @@
+
+> recipes-app-test@0.1.0 cy
+> cypress run
+
+
+====================================================================================================
+
+  (Run Starting)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Cypress:        9.7.0                                                                          │
+  │ Browser:        Electron 100 (headless)                                                        │
+  │ Node Version:   v16.14.2 (/usr/local/bin/node)                                                 │
+  │ Specs:          11 found (01-coverage_spec.js, 02-06-login_spec.js, 07-09-header_spec.js, 10-1 │
+  │                 5-header_search_bar_spec.js, 16-18-footer_spec.js, 19-23-recipes_spec.js, 24-3 │
+  │                 6-recipe_detail_spec.js, 37-43-recipe_in_progress_spec.js, 44-49-done_recipes_ │
+  │                 spec.js, 50-56-favorite...)                                                    │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  01-coverage_spec.js                                                            (1 of 11)

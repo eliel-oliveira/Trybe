@@ -1,0 +1,12 @@
+.header {
+  align-items: center;
+  background-image: linear-gradient(to right bottom, #fbdb89, #f48982);
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.header button {
+  background-image: linear-gradient(to right bottom, #fbdb89, #f48982);
+  border: none;
+}
