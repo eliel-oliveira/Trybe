@@ -1,0 +1,45 @@
+.headerSection {
+  align-items: center;
+  background-color: #023031;
+  box-shadow: 0 4px 1px rgba(0, 0, 0, 0.25);
+  color: white;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 0 40px 0 0;
+}
+
+.logoHeader {
+  height: 35px;
+  padding: 0 0 30px 20px;
+  width: 100px;
+}
+
+.userInfo {
+  align-items: center;
+  background-color: white;
+  border-radius: 50px;
+  color: black;
+  display: flex;
+  height: 20px;
+  justify-content: center;
+  width: 100px;
+}
+
+.navMenu {
+  align-items: center;
+  background-color: #f0f2f5;
+  box-shadow: 0 2px 1px rgba(0, 0, 0, 0.25);
+  display: flex;
+  height: 40px;
+  justify-content: space-between;
+  padding: 0 50px;
+}
+
+/* header img {
+  background-image: url('./services/images/logo_trybeTunes.png');
+  background-position: center;
+  background-size: cover;
+  height: 100px;
+  width: 100px;
+} */
