@@ -1,0 +1,36 @@
+.ball {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.colorList {
+  text-align: center;
+  padding: 20px;
+}
+
+#rgb-color {
+  padding-top: 20px;
+  text-align: center;
+}
+
+#answer {
+  text-align: center;
+}
+
+header {
+  text-align: center;
+  font-size: 30px;
+}
+
+.buttons {
+  text-align: center;
+}
+
+#score {
+  text-align: center;
+  padding-top: 20px;
+}
