@@ -1,0 +1,79 @@
+body {
+  background-color: rgb(47, 120, 129);
+}
+
+* {
+  margin: 0;
+}
+
+main {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-items: center;
+}
+
+.cardOptions {
+  display: flex;
+  gap: 50px;
+}
+
+.containerCard {
+  align-items: center;
+  background-color: orange;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 450px;
+  justify-items: center;
+  padding: 1px;
+}
+
+label {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 70px;
+  justify-content: center;
+  width: 220px;
+
+}
+
+.formFilter {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.containerCard p {
+  border: solid 2px black;
+  height: 50px;
+  text-align: center;
+  width: 220px;
+}
+
+.cardImage {
+  height: 200px;
+  max-width: 225px;
+}
+
+.card {
+  background-color: black;
+  border: 2px solid black;
+  border-radius: 10px;
+  height: 450px;
+  padding: 15px;
+  width: 250px;
+}
+
+.containerCardsList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+}
